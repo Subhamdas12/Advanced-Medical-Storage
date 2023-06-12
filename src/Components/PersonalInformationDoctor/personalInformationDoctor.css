@@ -1,0 +1,9 @@
+.personalInformationDoctor {
+    max-width: 50rem;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 2rem;
+    text-align: left;
+  }

@@ -1,0 +1,81 @@
+
+.currentEMRAccess {
+    max-width: 50rem;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 2rem;
+    text-align: left;
+  }
+
+  h2 {
+    margin-top: 0;
+  }
+
+  .btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+  }
+
+  .btn:hover {
+    background-color: #45a049;
+  }
+  select {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-bottom: 1rem;
+  }
+
+  .currentEMRAccess table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 1rem;
+  }
+  
+  .currentEMRAccess th, .currentEMRAccess td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .currentEMRAccess th {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .currentEMRAccess tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .currentEMRAccess .revokeBtn {
+    background-color: #ff5b5b;
+    color: white;
+    padding: 6px 12px;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+  }
+  
+  .currentEMRAccess .revokeBtn:hover {
+    background-color: #e34c4c;
+  }
+  

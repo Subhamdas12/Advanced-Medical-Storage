@@ -1,0 +1,14 @@
+{
+    "31337": {
+        "MedicalStorage": {
+            "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+        },
+        "explorerURL": "#"
+    },
+    "11155111": {
+        "MedicalStorage": {
+            "address": "0xd9145CCE52D386f254917e481eB44e9943F39138"
+        },
+        "explorerURL": "https://sepolia.etherscan.io/"
+    }
+}

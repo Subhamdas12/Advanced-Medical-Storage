@@ -1,0 +1,52 @@
+/* currentEMRBody.css */
+
+.currentEMRBody{
+    border: 2px solid red;
+}
+tr {
+    border-bottom: 1px solid #ccc;
+  }
+  
+  td {
+    padding: 8px;
+  }
+  
+  .revokeBtn {
+    background-color: #ff0000;
+    color: #ffffff;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .revokeBtn:hover {
+    background-color: #cc0000;
+  }
+  
+  .currentEMRAccess {
+    font-family: Arial, sans-serif;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  thead {
+    background-color: #f2f2f2;
+  }
+  
+  th {
+    font-weight: bold;
+    padding: 8px;
+  }
+  
+  tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  tbody tr:hover {
+    background-color: #eaeaea;
+  }
+  

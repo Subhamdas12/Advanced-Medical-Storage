@@ -1,0 +1,32 @@
+
+  .personalInformation {
+    max-width: 50rem;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 2rem;
+    text-align: left;
+  }
+
+  h2 {
+    margin-top: 0;
+  }
+
+  .btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+  }
+
+  .btn:hover {
+    background-color: #45a049;
+  }

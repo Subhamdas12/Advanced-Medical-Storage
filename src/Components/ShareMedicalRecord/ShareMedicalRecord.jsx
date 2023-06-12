@@ -24,7 +24,7 @@ const ShareMedicalRecord = () => {
   useEffect(() => {
     const fetchDetails = async () => {
       const details = await getAllDoctorNameAddresses(medicalStorage);
-      setDoctorAddress(details && details[0][1]);
+      setDoctorAddress(details && details[0] && details[0][1]);
       setDetails(details);
     };
     if (medicalStorage) {

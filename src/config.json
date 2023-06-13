@@ -10,5 +10,11 @@
             "address": "0x814B7B9Bfc61D6F918b51d006bE47974E781B100"
         },
         "explorerURL": "https://sepolia.etherscan.io/"
+    },
+    "80001": {
+        "MedicalStorage": {
+            "address": "0x0A5DE99bf01ff2fFa705d7B7c4A9A8CA84e1417a"
+        },
+        "explorerURL": "https://mumbai.polygonscan.com/"
     }
 }

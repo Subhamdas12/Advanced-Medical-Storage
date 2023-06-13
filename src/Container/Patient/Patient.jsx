@@ -5,6 +5,11 @@ import {
   PersonalInformation,
   ShareMedicalRecord,
 } from "../../Components";
+if (window.performance) {
+  if (performance.navigation.type === 1) {
+    window.location.replace("/");
+  }
+}
 const Patient = () => {
   return (
     <div>
